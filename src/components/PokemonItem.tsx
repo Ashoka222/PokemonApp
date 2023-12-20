@@ -71,13 +71,13 @@ const styles = StyleSheet.create({
   imageStyle: {
     width: 100,
     height: 100,
-    marginRight: 8,
+    // marginRight: 8,
   },
   nameText: {
     color: 'black',
     fontSize: 20,
     fontWeight: '500',
-    flex: 1,
+    // flex: 1,
   },
 });
 
